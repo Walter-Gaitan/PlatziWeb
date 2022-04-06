@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite\\PlatziWebsite.csproj": {}
+    "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite\\PlatziWebsite.csproj": {
+    "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite\\PlatziWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite.csproj",
         "projectName": "PlatziWebsite",
-        "projectPath": "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite\\PlatziWebsite.csproj",
+        "projectPath": "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite.csproj",
         "packagesPath": "C:\\Users\\walte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite\\obj\\",
+        "outputPath": "C:\\Users\\walte\\Downloads\\PlatziWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\walte\\AppData\\Roaming\\NuGet\\NuGet.Config",
