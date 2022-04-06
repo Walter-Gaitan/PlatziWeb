@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/walter/Documents/PlatziWeb/PlatziWebsite/PlatziWebsite.csproj": {}
+    "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite\\PlatziWebsite.csproj": {}
   },
   "projects": {
-    "/home/walter/Documents/PlatziWeb/PlatziWebsite/PlatziWebsite.csproj": {
+    "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite\\PlatziWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/walter/Documents/PlatziWeb/PlatziWebsite/PlatziWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite\\PlatziWebsite.csproj",
         "projectName": "PlatziWebsite",
-        "projectPath": "/home/walter/Documents/PlatziWeb/PlatziWebsite/PlatziWebsite.csproj",
-        "packagesPath": "/home/walter/.nuget/packages/",
-        "outputPath": "/home/walter/Documents/PlatziWeb/PlatziWebsite/obj/",
+        "projectPath": "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite\\PlatziWebsite.csproj",
+        "packagesPath": "C:\\Users\\walte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\walte\\Downloads\\PlatziWeb\\PlatziWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/walter/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\walte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
